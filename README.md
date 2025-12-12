@@ -16,7 +16,7 @@ The process is time-critical; the stained slides and the final IHC report must b
 
 1. **Use Case Description** (`use_case.md`)
    - Problem statement for remote patient monitoring
-   - Data sources from wearable devices and EHR systems
+   - Data sources from EHR systems
    - Step-by-step workflow from data ingestion to clinician action
 
 2. **Architecture Diagram** (`architecture_diagram.png`)
@@ -26,7 +26,7 @@ The process is time-critical; the stained slides and the final IHC report must b
 
 3. **Architecture & Implementation Plan** (`architecture_plan.md`)
    - Service mapping table with 10+ cloud services
-   - Detailed data flow narrative (7 phases)
+   - Detailed data flow narrative 
    - Security, identity, and governance strategy
    - Cost analysis and optimization for student budget
 
