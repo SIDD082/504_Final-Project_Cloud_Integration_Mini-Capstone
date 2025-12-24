@@ -8,7 +8,7 @@
 This project presents a comprehensive cloud architecture design for a **Cloud-Based Pathology Slide Tracking (Pathology Tracking)** aimed at improving turn around time management through digital tracking.
 
 ### Healthcare Problem Addressed
-The process is time-critical; the stained slides and the final IHC report must be returned to the hospital's primary pathologist within five business days for timely diagnosis and treatment planning. 
+The process is time-critical; the stained slides and the final Immunohistochemistry (IHC) report must be returned to the hospital's primary pathologist within five business days for timely diagnosis and treatment planning. 
 
 ---
 
